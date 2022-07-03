@@ -13,9 +13,3 @@ Youtubeチャンネル「プロちゃん」で使用したソースコードを�
 
 ## twitter
 <https://twitter.com/t8n8gIYAQ4CeRyc>
-
-## instagram
-<https://www.instagram.com/program_chan>
-
-## facebook
-<https://www.facebook.com/program.chan>
